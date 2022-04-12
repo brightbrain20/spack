@@ -84,7 +84,7 @@ span {
 
 
 .box{
-
+    width: 20%;
     text-align: justify;
     padding: 20px;
     font-size: 20px;
@@ -94,6 +94,13 @@ span {
 
 h1{
     font-family: serif;
+    
+    text-align: center;
+}
+
+.section{
+    
+    font-size: 30px;
 }
 
 p{
@@ -146,9 +153,7 @@ footer {
        width: 100%;
     }
     
-    body{
-        width: 100%;
-    }
+    
     
 
     .box{
